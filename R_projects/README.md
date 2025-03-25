@@ -8,3 +8,7 @@
 
 - В папке tidytuesday_himalayas находится код и график, построенный для проекта 
 [tidytuesday](https://github.com/rfordatascience/tidytuesday) за 3 неделю 2025 года.
+
+## Технологический стек
+
+R, tidyverse, dplyr, tidyr, ggplot2.
