@@ -1,4 +1,4 @@
-# Решения задач с SQL-Academy
+# SQL-Academy
 
 Этот репозиторий содержит мои решения практических задач по SQL из тренажёра на [SQL-Academy](https://sql-academy.org/) 
 (в основном класса medium и hard).

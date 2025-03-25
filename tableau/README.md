@@ -1,5 +1,9 @@
+# Tableau
+
 Здесь расположены ссылки на мои pet-проекты в tablau
----
+
+## Основная часть
+
 Мой профиль: https://public.tableau.com/app/profile/danil.filippov/vizzes
 
 Проекты:
@@ -8,3 +12,8 @@
 - Анализ мобильного приложения: https://public.tableau.com/app/profile/danil.filippov/viz/_17420339861020/Dashboard
 
 - Аналитика магазина: https://public.tableau.com/app/profile/danil.filippov/viz/_17415107587600/Dashboard1
+
+## Технологический стек
+
+Tableau
+
